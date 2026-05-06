@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# portfolio
-これまでに作ったアプリ等
-=======
-# React + Vite
+# WearLog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 概要
+服装を記録・管理できるアプリです。
 
-Currently, two official plugins are available:
+## 使用技術
+- React
+- JavaScript
+- （API名など）
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 機能
+- コーディネート記録
+- 画像保存
+- （他の機能）
 
-## React Compiler
+## こだわり
+- UIをシンプルに設計
+- 使いやすさを重視
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 6bf7a31 (first commit)
+## 今後の課題
+- ○○機能の追加
+- デザイン改善
